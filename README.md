@@ -1,11 +1,7 @@
 # Covid_SIR_Model
 SIR Model for South Carolina, USA
 
-  
-Hi Guys!
-
-I am Kartikey Sharma and I am a student of IIT Goa<br>
-I developed this project along with Surya as my assignment for BIO101 course which was based on the SIR Model to fit the COVID data for South Carolina
+This project was developed as my assignment for BIO101 course which was based on the SIR Model to fit the COVID data for South Carolina
 
 We used the dataset from the below link
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us
